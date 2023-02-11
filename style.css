@@ -11,6 +11,8 @@ body > div {
     align-items: center;
 }
 
+
+
 .top {
     background-color: #1F2937;
     color: #E5E7EB;
@@ -61,6 +63,8 @@ button {
     margin-left: 16px;
 }
 
+
+
 .info {
 
 }
@@ -69,6 +73,8 @@ button {
     font-size: 36px;
     font-weight: 900;
 }
+
+
 
 .quote {
     background-color: #E5E7EB;
@@ -81,9 +87,13 @@ button {
     font-style: italic;
 }
 
+
+
 .signup {
 
 }
+
+
 
 .footer {
     background-color: #1F2937;
