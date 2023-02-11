@@ -96,12 +96,18 @@ button {
 .quote {
     background-color: #E5E7EB;
     font-weight: bold;
+    font-size: 24px;
+    padding: 128px 355px 96px
 }
 
 .quote-text {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
+}
+
+.name {
+    align-self: flex-end;
 }
 
 
