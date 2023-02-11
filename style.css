@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: roboto, sans-serif;
     font-size: 18px;
     color: #1F2937;
     margin: 0;
@@ -21,7 +21,7 @@ body {
 
 .hero {
     font-size: 48px;
-    font-weight: bold;
+    font-weight: 900;
     color: #F9FAF8;
 }
 
@@ -29,8 +29,20 @@ body {
 
 }
 
+.info-header{
+    font-size: 36px;
+    font-weight: 900;
+}
+
 .quote {
     background-color: #E5E7EB;
+    font-weight: bold;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
 }
 
 .signup {
@@ -39,4 +51,5 @@ body {
 
 .footer {
     background-color: #1F2937;
+    color: #E5E7EB;
 }
