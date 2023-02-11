@@ -14,16 +14,22 @@ body > div {
 .top {
     background-color: #1F2937;
     color: #E5E7EB;
+    padding: 16px 240px 0;
 }
 
-.header{
-    
+.top > div{
+    align-self: stretch;
+    display: flex;
+    margin-bottom: 128px;
+    gap: 32px;
+    align-items: center;
 }
 
 .logo {
     font-size: 24px;
     font-weight: bold;
     color: #F9FAF8;
+    margin-right: auto;
 }
 
 .hero {
@@ -40,11 +46,14 @@ button {
     font-weight: 500;
     border: none;
     border-radius: 8px;
+    margin: 8px 0;
 }
 
 .main-img {
     width: 540px;
     height: 240px;
+    flex-shrink: 0;
+    margin-left: 16px;
 }
 
 .info {
