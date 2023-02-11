@@ -66,12 +66,29 @@ button {
 
 
 .info {
-
+    padding: 48px 320px 124px;
 }
 
-.info-header{
+.info-header {
     font-size: 36px;
     font-weight: 900;
+    margin-bottom: 48px;
+}
+
+.info-img {
+    width: 176px;
+    height: 176px;
+    flex-shrink: 0;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #3882F6;
+    border-radius: 16px;
+}
+
+.info-content {
+    display: flex;
+    text-align: center;
+    gap: 48px;
 }
 
 
