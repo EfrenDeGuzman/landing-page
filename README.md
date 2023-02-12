@@ -8,3 +8,5 @@ https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab0
 
 finished output:
 https://efrendeguzman.github.io/landing-page/
+
+I made the theme of my project after the game "Hades" by Supergiant Games (https://www.supergiantgames.com/), all the images used belong to them.
