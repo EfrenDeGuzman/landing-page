@@ -14,7 +14,7 @@ body > div {
 
 
 .top {
-    background-color: #1F2937;
+    background-color: #8C120A;
     color: #E5E7EB;
     padding: 16px 240px 0;
 }
@@ -46,7 +46,7 @@ a {
 }
 
 button {
-    background-color: #3882F6;
+    background-color: #222222;
     color: #F9FAF8;
     padding: 8px 32px;
     font-size: 18px;
@@ -81,7 +81,7 @@ button {
     flex-shrink: 0;
     border-style: solid;
     border-width: 4px;
-    border-color: #3882F6;
+    border-color: #222222;
     border-radius: 16px;
 }
 
@@ -118,7 +118,7 @@ button {
 }
 
 .signup > div{
-    background-color: #3882F6;
+    background-color: #8C120A;
     display: flex;
     padding: 54px 128px;
     gap: 159px;
@@ -132,6 +132,7 @@ button {
 }
 
 .signup button {
+    background-color: #8C120A;
     border-style: solid;
     border-color: #F9FAF8;
     border-width: 2px;
@@ -139,7 +140,7 @@ button {
 
 
 .footer {
-    background-color: #1F2937;
+    background-color: #222222;
     color: #E5E7EB;
     padding: 48px;
 }
