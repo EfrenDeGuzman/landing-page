@@ -14,7 +14,7 @@ body > div {
 
 
 .top {
-    background-color: #8C120A;
+    background-color: #222222;
     color: #E5E7EB;
     padding: 16px 240px 0;
 }
@@ -33,9 +33,7 @@ a {
 }
 
 .logo {
-    font-size: 24px;
-    font-weight: bold;
-    color: #F9FAF8;
+    height: 36px;
     margin-right: auto;
 }
 
@@ -43,10 +41,11 @@ a {
     font-size: 48px;
     font-weight: 900;
     color: #F9FAF8;
+    margin-bottom: 18px;
 }
 
 button {
-    background-color: #222222;
+    background-color: #8C120A;
     color: #F9FAF8;
     padding: 8px 32px;
     font-size: 18px;
@@ -58,7 +57,6 @@ button {
 
 .main-img {
     width: 540px;
-    height: 240px;
     flex-shrink: 0;
     margin-left: 16px;
 }
@@ -132,7 +130,6 @@ button {
 }
 
 .signup button {
-    background-color: #8C120A;
     border-style: solid;
     border-color: #F9FAF8;
     border-width: 2px;
